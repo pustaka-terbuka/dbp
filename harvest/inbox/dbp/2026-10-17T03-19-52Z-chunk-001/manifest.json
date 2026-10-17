@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "dbp",
+  "agency_code": "DBP",
+  "run_id": "2026-10-17T03-19-52Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:19:52.816Z",
+  "harvester": {
+    "name": "dbp-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "a452fe00a115a2fd9e046eb3e41c9b8933f8ab1cb20f4b45d5d8dee69ecc3db6"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "1d34d3441bf0fb8b49a8acf9b165c5ad36edac05133f4056a1a73533c35c67b8"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "886237d7e110c9d4adbf2c9e41c42ca6a108a274024ec3c2c04c8d45a18217ff"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "96ace53abd69f5d0ad3f76f6324a96f2fc3024722933c7461f94e81d01b779b1"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "72553c3bad2a9a8f474aaa510721bf271293e2ff3af95c359408dd3bc14878b7"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "dbp",
+  "source_name": "Pusat Dokumentasi Melayu (Dewan Bahasa dan Pustaka)",
+  "source_base_url": "https://pustaka.dbp.gov.my/",
+  "terms_url": "https://www.dbp.gov.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "dbp-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T06-05-03Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T06:05:05.121Z",
+  "finished_at": "2026-10-17T06:05:05.121Z",
+  "record_count": 10000,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/dbp; contact@pustakaterbuka.org)",
+  "notes": "DBP harvest finished. Total: 10000 records."
+}
